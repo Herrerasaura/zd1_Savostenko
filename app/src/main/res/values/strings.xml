@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zd1_Savostenko</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="next">next</string>
+    <string name="save">Выбрать фильм</string>
+    <string-array name="Movies"><item>Человек паук</item><item>Трансформеры</item><item>Властелин колец</item></string-array>
+</resources>
